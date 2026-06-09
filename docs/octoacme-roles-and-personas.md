@@ -290,6 +290,189 @@ Scrum Masters facilitate agile ceremonies, remove impediments, and coach teams o
 
 ---
 
+## Strategic & Specialized Roles
+
+### Release Manager
+
+#### Role Summary
+Release Managers own the release coordination process and oversee the deployment of software to production environments. They work with DevOps Engineers, Developers, and Project Managers to ensure smooth, well-communicated releases and rollback capabilities.
+
+#### Responsibilities
+- Plan and schedule production release windows
+- Coordinate deployment execution with DevOps Engineer and team
+- Manage release communications to stakeholders and support teams
+- Document and maintain rollback/mitigation plans
+- Track release status and handle deployment issues
+- Conduct post-release verification and announce completion
+- Maintain release documentation and version history
+
+#### Goals
+- Minimize deployment risk and production incidents
+- Ensure transparent, timely communication during releases
+- Enable rapid response to issues with clear rollback procedures
+- Establish confidence in the release process across stakeholders
+
+#### Typical Communication
+- Release schedules and deployment windows
+- Release notes and change summaries
+- Pre-deployment and post-deployment checklists
+- Incident alerts and status updates during deployment
+- Release retrospectives and improvement recommendations
+
+#### Interactions
+- Works closely with **DevOps Engineer** on deployment execution and infrastructure readiness
+- Coordinates with **Project Manager** on release timing and milestone alignment
+- Communicates with **QA Lead** on final acceptance and smoke testing completion
+- Informs **Developers** and **Technical Writer** of release status and final deployment time
+- Updates **Product Manager** on release readiness and tracks stakeholder communications
+
+---
+
+### Data Analyst
+
+#### Role Summary
+Data Analysts define and measure success metrics for projects and products. They collaborate with Product Managers and Developers to design experiments, collect meaningful data, and provide insights that drive decision-making and continuous improvement.
+
+#### Responsibilities
+- Define and track key performance indicators (KPIs) and success metrics
+- Design experiments and A/B tests for feature validation
+- Analyze data trends and identify patterns affecting project outcomes
+- Create dashboards and reports for stakeholder visibility
+- Provide data-driven insights to support prioritization decisions
+- Validate hypotheses through quantitative and qualitative analysis
+- Support post-release analysis and impact measurement
+
+#### Goals
+- Ensure projects are measured against agreed success metrics
+- Enable rapid, data-driven iteration and decision-making
+- Reduce decision-making bias through evidence and analysis
+- Drive continuous improvement through actionable insights
+
+#### Typical Communication
+- Metric definitions and success criteria documentation
+- Data dashboards and regular analytics reports
+- Experiment design and results analysis
+- Stakeholder briefings with key findings and recommendations
+- Retrospective analysis and lessons learned reports
+
+#### Interactions
+- Partners with **Product Manager** on defining success metrics and experiment design
+- Collaborates with **Developers** on instrumentation and data collection implementation
+- Works with **QA Lead** on test data and quality measurement
+- Supports **Project Manager** with progress reporting and risk identification
+- Informs **Business Analyst** of data patterns affecting requirements
+
+---
+
+### Solution Architect
+
+#### Role Summary
+Solution Architects align technical implementation with overall architecture vision and organizational standards. They oversee integration design, manage complexity, and ensure solutions are scalable, maintainable, and aligned with long-term strategic goals.
+
+#### Responsibilities
+- Define overall solution architecture and design approach
+- Ensure alignment with organizational architecture standards and principles
+- Review design decisions for scalability, performance, and maintainability
+- Identify and manage technical risks and dependencies
+- Support integration planning and cross-system compatibility
+- Mentor developers on architectural best practices
+- Conduct design reviews and provide architecture guidance
+
+#### Goals
+- Deliver scalable, maintainable solutions aligned with strategy
+- Reduce technical debt and improve system reliability
+- Enable faster time-to-market through reusable components and patterns
+- Support organizational growth through architecture foresight
+
+#### Typical Communication
+- Architecture design documents and decision records
+- Technology stack recommendations and evaluations
+- Integration and dependency diagrams
+- Design review sessions with development teams
+- Architecture governance and standards documentation
+
+#### Interactions
+- Collaborates with **Developers** on design feasibility and implementation guidance
+- Works with **DevOps Engineer** on infrastructure requirements and deployment architecture
+- Partners with **Project Manager** on timeline implications of architectural decisions
+- Advises **Product Manager** on technical feasibility and trade-offs
+- Supports **Business Analyst** on understanding technical constraints and capabilities
+
+---
+
+### Change Manager
+
+#### Role Summary
+Change Managers coordinate and support the organizational and process changes required to implement new solutions. They work across teams to manage stakeholder adoption, minimize disruption, and ensure successful change integration.
+
+#### Responsibilities
+- Develop and execute change management strategy and communication plans
+- Identify stakeholders affected by changes and tailor communication approaches
+- Create change impact assessments and mitigation strategies
+- Conduct training and readiness activities for affected teams
+- Monitor adoption and address change resistance
+- Capture feedback and iterate on change approach as needed
+- Support transition from pilot/staging to full production
+
+#### Goals
+- Maximize stakeholder adoption and minimize change resistance
+- Reduce disruption and productivity impact during transitions
+- Ensure sustained behavior change and process adoption
+- Build organizational capability for managing future changes
+
+#### Typical Communication
+- Change impact assessments and stakeholder analysis
+- Communication plans and messaging templates
+- Training materials and readiness assessments
+- Adoption metrics and feedback reports
+- Post-implementation review and lessons learned
+
+#### Interactions
+- Partners with **Project Manager** on change timeline and integration planning
+- Collaborates with **Product Manager** on user adoption strategy
+- Works with **UX/UI Designer** on user experience of changes
+- Supports **Technical Writer** with training documentation and user guides
+- Coordinates with all teams on change communication and readiness
+
+---
+
+### Customer Success / Support Lead
+
+#### Role Summary
+Customer Success / Support Leads represent customer needs and feedback in the product development cycle. They manage customer relationships, triage support issues, and feed insights back into the product and process improvement roadmap.
+
+#### Responsibilities
+- Manage customer support team and triage incoming support requests
+- Identify support trends, common issues, and product gaps
+- Escalate critical customer issues to product and engineering teams
+- Collaborate on customer-facing documentation and help resources
+- Track customer satisfaction metrics and NPS (Net Promoter Score)
+- Represent customer voice in product planning and prioritization
+- Support onboarding and training for new customers
+
+#### Goals
+- Maximize customer satisfaction and retention
+- Reduce support burden through proactive issue prevention
+- Feed customer insights into product roadmap decisions
+- Maintain strong customer relationships and advocacy
+
+#### Typical Communication
+- Support metrics and issue trend reports
+- Customer feedback and satisfaction surveys
+- Issue escalation and resolution tracking
+- Feature requests and product improvement recommendations
+- Customer success stories and reference case studies
+
+#### Interactions
+- Provides feedback to **Product Manager** on customer needs and pain points
+- Collaborates with **Developers** on root cause analysis of support issues
+- Works with **QA Lead** on quality concerns identified through support tickets
+- Partners with **Technical Writer** on documentation clarity and helpfulness
+- Supports **Change Manager** on user adoption and training needs
+- Communicates with **Project Manager** on customer-impacting timelines
+
+---
+
 ## How these personas are used in the exercise
 
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
